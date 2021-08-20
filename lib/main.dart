@@ -24,7 +24,7 @@ class MyApp extends StatelessWidget {
       ),
       title: "Exarth | Welcome Page",
      
-      home: Profile(),
+      home: WelcomePage(),
    
       
     );
